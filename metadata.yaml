@@ -1,0 +1,43 @@
+_repo: Avioel-m---IKaksitoista-kertomusta-avioel-m-st-_46193
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Joel_Lehtonen
+    - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: Translations of stories from Giftas.
+gutenberg_issued: '2014-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46193'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sweden -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+tableOfContents: Esipuhe -- Alkulause -- Hyveen palkka -- Rakkaus ja jyvät -- Päästä
+  naimisiin -- Täytyy -- Korvaus -- Huono onni -- Viilloksia -- Luonnoton valinta,
+  tai rodun synty -- Uudistusyritys -- Luonnonesteitä -- Fenix-lintu.
+title: 'Avioelämää 1: Kaksitoista kertomusta avioelämästä'
+url: http://www.gutenberg.org/ebooks/46193
